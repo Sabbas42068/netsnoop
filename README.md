@@ -110,6 +110,14 @@ netsnoop/
 
 ---
 
+## Sample Output
+
+![Full analysis output](screenshots/full_output.png)
+
+![FTP credential detection validated in Wireshark](screenshots/ftp_credential_detection.png)
+
+---
+
 ## Skills Demonstrated
 
 - Python scripting with Scapy for packet-level analysis
