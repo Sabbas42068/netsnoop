@@ -114,7 +114,7 @@ netsnoop/
 
 ![Full analysis output](screenshots/full_output.png)
 
-![FTP credential detection validated in Wireshark](screenshots/ftp_credential_detection.png)
+![FTP credential detection validated in Wireshark](screenshots/full_credential_detection.png)
 
 ---
 
